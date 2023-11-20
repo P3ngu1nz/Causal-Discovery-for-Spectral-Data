@@ -1,6 +1,7 @@
 band_type,w,h,a
 water,840,0.02,20
 water,970,0.05,20
+water,1250,0.1,20
 water,1450,0.1,40
 water,1780,0.1,40
 water,1940,0.4,50
