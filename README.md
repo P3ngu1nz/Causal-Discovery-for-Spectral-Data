@@ -5,4 +5,4 @@ Datasets for CDI calculating
 - x.xlsx: simulated spectra from the internal (all 341 wavelengths) and external (only causally related region - due to storage difficulty) datasets.
 
 Author: Minh-Quan Nguyen
-Last updated: 2024-03-28
+  Last updated: 2024-03-28
